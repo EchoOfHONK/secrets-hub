@@ -1,0 +1,10 @@
+EFF Long Wordlist
+Creator: Joseph Bonneau, Electronic Frontier Foundation (EFF).
+Source: https://www.eff.org/files/2016/07/18/eff_large_wordlist.txt
+Description: https://www.eff.org/dice
+Copyright policy: https://www.eff.org/copyright
+License: Creative Commons Attribution 4.0 International, under EFF's current
+copyright policy for original material, unless otherwise noted.
+License text: https://creativecommons.org/licenses/by/4.0/
+Modification in Secrets Hub: five-digit dice prefixes were removed. The 7,776
+words and their order remain unchanged. This attribution does not imply endorsement.
